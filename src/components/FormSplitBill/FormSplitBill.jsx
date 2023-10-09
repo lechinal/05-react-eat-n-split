@@ -21,6 +21,7 @@ function FormSplitBill() {
         <option value="user">You</option>
         <option value="friend">X</option>
       </select>
+
       <Button>Split Bill</Button>
     </form>
   );
